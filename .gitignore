@@ -1,0 +1,7 @@
+*.pyc
+*.exe
+*.xml
+
+.idea/*
+user-data/*
+screenshot/*
